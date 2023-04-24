@@ -11,10 +11,10 @@
 
 3.  주요 사용 명령어✨✨✨(window 용)
 
-🔸설치 명령어
--> npm update
--> npm install -g node-gyp
--> npm install
+    🔸설치 명령어
+        -> npm update
+        -> npm install -g node-gyp
+        -> npm install
 
-🔸build 명령어
--> npm run build
+    🔸build 명령어
+        -> npm run build
